@@ -1210,6 +1210,22 @@ a {
     padding-bottom: 1.5rem;
   }
 }
+.cid-sfyiY6MjPU {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
+}
+@media (max-width: 991px) {
+  .cid-sfyiY6MjPU .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sfyiY6MjPU .row {
+  flex-direction: row-reverse;
+}
+.cid-sfyiY6MjPU img {
+  width: 100%;
+}
 .cid-sfmu1hyVZT {
   padding-top: 90px;
   padding-bottom: 90px;
